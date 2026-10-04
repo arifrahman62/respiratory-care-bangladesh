@@ -23,9 +23,9 @@ Oxygen prescriptions are measured in liters per minute (LPM). 5L concentrators c
 - Check the oxygen purity specification (typically 90–96% at rated flow).
 - Ask about noise level — the machine may run all night in a bedroom.
 - Confirm warranty and servicing: filters and sieve beds need periodic replacement.
-- Buy from a supplier that delivers, installs, and demonstrates the machine at your home.
+- Buy from [medical equipment suppliers in bangladesh](https://medicalmartbd.com/) that deliver, install, and demonstrate the machine at your home.
 
-[Medical Mart BD](https://medicalmartbd.com/) supplies oxygen concentrators across Bangladesh with nationwide delivery, installation guidance, and rental options for short-term needs. Serving the respiratory care sector since 2012, they also stock CPAP and BiPAP machines — see their [CPAP & BiPAP collection](https://medicalmartbd.com/bipap-cpap/) — with 24/7 customer support for patients and hospitals.
+[Medical Mart BD](https://medicalmartbd.com/) supplies oxygen concentrators across Bangladesh with nationwide delivery, installation guidance, and rental options for short-term needs. Serving the respiratory care sector since 2012, they also stock CPAP and BiPAP machines — see their [CPAP & BiPAP collection](https://medicalmartbd.com/bipap-cpap/) — with 24/7 customer support for patients and hospitals seeking [Sleep Apnea & Respiratory Care Solutions in Bangladesh](https://medicalmartbd.com/).
 
 ## A Final Note
 
