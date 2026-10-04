@@ -104,7 +104,7 @@ The backrest should support the spine without forcing it. Reclining models help 
 
 ## Buying New vs Renting for Short-Term Recovery
 
-If the wheelchair is needed for a defined recovery period — say, two to four months after surgery — buying a new chair means paying full price for equipment that will gather dust afterwards. For these cases, check the [equipment rental page](https://medicalmartbd.com/rent-equipment/) and ask the supplier what is available for short-term hire before you buy. Rental also lets the family discover what features actually matter in daily use, which makes a later purchase — if one becomes necessary — far better informed. For permanent or indefinite needs, buying is the sensible path: a well-maintained manual wheelchair serves for years.
+If the wheelchair is needed for a defined recovery period — say, two to four months after surgery — buying a new chair means paying full price for equipment that will gather dust afterwards. For these cases, check the [equipment rental page](https://medicalmartbd.com/rent-equipment/) and ask [medical equipment suppliers in bangladesh](https://medicalmartbd.com/) what is available for short-term hire before you buy. Rental also lets the family discover what features actually matter in daily use, which makes a later purchase — if one becomes necessary — far better informed. For permanent or indefinite needs, buying is the sensible path: a well-maintained manual wheelchair serves for years.
 
 ## Keeping It in Good Shape: Simple Maintenance
 
@@ -157,7 +157,7 @@ With difficulty. Larger wheels and pneumatic tyres cope better, but deeply rutte
 Frame cracks, brake effectiveness, wheel and castor condition, upholstery tears, and whether it folds smoothly. A used chair from a trusted source can be good value, but never compromise on brakes and frame integrity.
 
 **My mother also needs oxygen at home after her surgery — is that common?**
-Post-surgical and elderly patients sometimes need home oxygen alongside mobility support. If that applies, read the [home oxygen concentrator guide](https://github.com/arifrahman62/respiratory-care-bangladesh) to understand how concentrators work, and you can compare current [oxygen concentrator options](https://medicalmartbd.com/product-category/oxygen-concentrator/) from the same supplier.
+Post-surgical and elderly patients sometimes need home oxygen alongside mobility support. If that applies, read the [home oxygen concentrator guide](https://github.com/arifrahman62/respiratory-care-bangladesh) to understand how concentrators work — [Sleep Apnea & Respiratory Care Solutions in Bangladesh](https://medicalmartbd.com/) can advise on combining oxygen therapy with mobility equipment — and you can compare current [oxygen concentrator options](https://medicalmartbd.com/product-category/oxygen-concentrator/) from the same supplier.
 
 ## Choosing Well, Once
 

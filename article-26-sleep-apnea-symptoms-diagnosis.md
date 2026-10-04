@@ -68,7 +68,7 @@ Treatment depends on the severity and the individual, and it is always the clini
 
 If CPAP is prescribed, two things determine whether therapy succeeds: the right machine for the prescription, and a mask that fits comfortably enough to wear all night. Exploring [CPAP and BiPAP therapy options](https://medicalmartbd.com/bipap-cpap/) helps you understand what the treatment involves before you discuss it with your doctor, and browsing the available [CPAP machines](https://medicalmartbd.com/product-category/bipap-cpap/cpap-machine/) shows what current devices look like. Because mask comfort decides whether people actually keep using therapy, it is worth learning about [CPAP masks](https://medicalmartbd.com/product-category/bipap-and-cpap-mask/) and proper fitting early. Our [BiPAP vs CPAP guide](https://www.tumblr.com/medicalmartbd/829545258736025600/bipap-vs-cpap-which-one-do-you-need) explains the difference between the two therapy types for those whose clinician mentions BiPAP.
 
-Some patients worry that a CPAP prescription means sleeping with a machine forever. In practice, many people adapt within a few weeks and find the improvement in daytime energy worth it. Where the prescription is short-term or the diagnosis is still being confirmed, some families look into [CPAP and BiPAP rental options in Dhaka](https://medicalmartbd.com/cpap-bipap-machine-rental-in-dhaka-bangladesh/) rather than buying outright — a reasonable question to raise with your supplier.
+Some patients worry that a CPAP prescription means sleeping with a machine forever. In practice, many people adapt within a few weeks and find the improvement in daytime energy worth it. Where the prescription is short-term or the diagnosis is still being confirmed, some families look into [CPAP and BiPAP rental options in Dhaka](https://medicalmartbd.com/cpap-bipap-machine-rental-in-dhaka-bangladesh/) rather than buying outright — a reasonable question to raise with your supplier, such as [Medical Mart BD](https://medicalmartbd.com/).
 
 And if breathing support extends beyond sleep — for example, where a clinician has also advised home oxygen — our [respiratory care guide](https://github.com/arifrahman62/respiratory-care-bangladesh) covers oxygen concentrators for home use in Bangladesh.
 
@@ -111,7 +111,7 @@ Most people find it less disruptive than expected. Lab studies involve sensors a
 Availability is best in Dhaka, where hospitals and diagnostic centres offer them, and access is expanding in other major cities. Your doctor can advise on the nearest suitable facility.
 
 **What does CPAP treatment feel like?**
-Most users describe a gentle flow of air through a mask. There is usually an adjustment period of days to weeks, and mask fitting makes the biggest difference to comfort. Clinicians and suppliers can help with the initial setup.
+Most users describe a gentle flow of air through a mask. There is usually an adjustment period of days to weeks, and mask fitting makes the biggest difference to comfort. Clinicians and [medical equipment suppliers in bangladesh](https://medicalmartbd.com/) can help with the initial setup.
 
 **Should children be tested for sleep apnea?**
 Children can have sleep apnea too, often related to enlarged tonsils or adenoids, with symptoms like restless sleep, bedwetting, or daytime behavioural issues. Paediatric evaluation is a separate pathway — raise it with your child's doctor rather than applying adult guidance.
